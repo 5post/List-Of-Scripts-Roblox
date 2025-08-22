@@ -5,3 +5,6 @@ I AM NOT COPYING OTHER SCREENS. I AM JUST MAKING A PLACE WHERE ALL SCREENS WILL 
 # RU:
 ВНИМАНИЕ!!!
 Я НЕ КОПИРУЮ ДРУГИЕ СКРИПТЫ. Я ПРОСТО ДЕЛАЮ МЕСТО ГДЕ БУДУТ НАХОДИТСЯ ВСЕ СКРИПТЫ!
+
+# IY (Infinity yield)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
