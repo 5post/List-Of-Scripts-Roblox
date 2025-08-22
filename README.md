@@ -8,3 +8,11 @@ I AM NOT COPYING OTHER SCREENS. I AM JUST MAKING A PLACE WHERE ALL SCREENS WILL 
 
 # IY (Infinity yield)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/5post/List-Of-Scripts-Roblox/refs/heads/main/Infinityield'))()
+
+# FE Fling troll edition 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/5post/List-Of-Scripts-Roblox/refs/heads/main/fe-fling'))()
+
+# Vynixu MM2 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/5post/List-Of-Scripts-Roblox/refs/heads/main/VynixuMM2'))()
+
+
